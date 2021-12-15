@@ -20,27 +20,32 @@
 
 ### Languages and Tools:
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+
+![TypeScript](https://img.shields.io/badge/typescript%20-%23150458.svg?&style=flat&logo=typescript&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-![Loopback.js](https://img.shields.io/badge/-Loopback.js-05122A?style=flat&logo=loopback.js&logoColor=092E20)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
+![Angular](https://img.shields.io/badge/Angular%20-%23013243.svg?&style=flat&logo=angular&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Express](https://img.shields.io/badge/express%20-%23150458.svg?&style=flat&logo=express&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![Loopback.js](https://img.shields.io/badge/-Loopback.js-05122A?style=flat&logo=loopback.js&logoColor=092E20)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=092E20)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Jasmine](https://img.shields.io/badge/Jasmine%20-%23150458.svg?&style=flat&logo=Jasmine&logoColor=white)&nbsp;
-![Angular](https://img.shields.io/badge/Angular%20-%23013243.svg?&style=flat&logo=angular&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
-![TypeScript](https://img.shields.io/badge/typescript%20-%23150458.svg?&style=flat&logo=typescript&logoColor=white)&nbsp;
-![Express](https://img.shields.io/badge/express%20-%23150458.svg?&style=flat&logo=express&logoColor=white)&nbsp;
+![jUnit](https://img.shields.io/badge/jUnit%20-%23150458.svg?&style=flat&logo=Java&logoColor=white)&nbsp;
+![Docker-Compose](https://img.shields.io/badge/Docker-Compose%20-%23150458.svg?&style=flat&logo=dockercompose&logoColor=white)&nbsp;
+
+
 
 <br />
 <br />
