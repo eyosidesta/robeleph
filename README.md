@@ -2,11 +2,9 @@
 
 ## I'm a Software Engineer!!
 
-- 🔭 I just launched my first course:
+- 🔭 I’m currently working as a Full Stack Developer
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 👯 I’m looking to collaborate on open source projects.
 <br />
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=robeleph.robeleph)
