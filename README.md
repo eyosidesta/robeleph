@@ -40,6 +40,7 @@
 <br />
 
 ![Robel's github stats](https://github-readme-stats.vercel.app/api?username=robeleph&show_icons=true&theme=dark)
+[![Robel's github stats](https://github-readme-stats.vercel.app/api?username=robeleph)](https://github.com/robeleph/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/robel-ephraim
 [gmail]: https://www.mailto:ephraimrobel15@gmail.com
