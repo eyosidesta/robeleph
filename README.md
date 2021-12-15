@@ -9,6 +9,8 @@
 - ⚡ Fun fact: I love to draw and play guitar / drums
 <br />
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=robeleph.robeleph)
+
 ### Connect with me:
 
 [<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
