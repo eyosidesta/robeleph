@@ -13,8 +13,8 @@
 
 ### Connect with me:
 
-<a href=”https://www.linkedin.com/in/andres-villegas-79867ab7/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
-
+[<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][gmail]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
 ### Languages and Tools:
@@ -35,15 +35,9 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 [<img align="left" alt="AWS" width="26px" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/AWS.jpeg" />]
-<br />
-<br />
+
 
 ![Robel's github stats](https://github-readme-stats.vercel.app/api?username=robeleph&show_icons=true&theme=dark)
-
-<br />
-<br />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robeleph&theme=dark “Robel's Top Languages Card”)
 
 [linkedin]: https://www.linkedin.com/in/robel-ephraim
 [gmail]: https://www.mailto:ephraimrobel15@gmail.com
