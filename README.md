@@ -38,7 +38,8 @@
 [<img align="left" alt="AWS" width="26px" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/AWS.jpeg" />]
 <br />
 <br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robeleph&theme=synthwave “Andres’ Top Languages Card”)
+
+[![Robel's github stats](https://github-readme-stats.vercel.app/api?username=robeleph)](https://github.com/melanieshi0120/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/robel-ephraim
 [gmail]: https://www.mailto:ephraimrobel15@gmail.com
