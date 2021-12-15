@@ -39,6 +39,7 @@
 ![jUnit](https://img.shields.io/badge/jUnit%20-%23150458.svg?&style=flat&logo=Java&logoColor=white)&nbsp;
 ![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/typescript%20-%23150458.svg?&style=flat&logo=typescript&logoColor=white)&nbsp;
 
 <br />
 <br />
