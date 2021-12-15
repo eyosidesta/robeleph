@@ -35,17 +35,16 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Express](https://img.shields.io/badge/express%20-%23150458.svg?&style=flat&logo=express&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![AWS](https://img.shields.io/badge/AWS%20-%23150458.svg?&style=flat&logo=aws&logoColor=yellow)&nbsp;
 ![Loopback.js](https://img.shields.io/badge/-Loopback.js-05122A?style=flat&logo=loopback.js&logoColor=092E20)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=092E20)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![jUnit](https://img.shields.io/badge/jUnit%20-%23150458.svg?&style=flat&logo=Java&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Docker Compose](https://img.shields.io/badge/-Docker%Compose%20Code-05122A?style=flat&logo=docker-compose&logoColor=007ACC)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=007ACC)&nbsp;
 ![Jasmine](https://img.shields.io/badge/Jasmine%20-%23150458.svg?&style=flat&logo=Jasmine&logoColor=white)&nbsp;
-![jUnit](https://img.shields.io/badge/jUnit%20-%23150458.svg?&style=flat&logo=Java&logoColor=white)&nbsp;
-![AWS](https://img.shields.io/badge/AWS%20-%23150458.svg?&style=flat&logo=aws&logoColor=yellow)&nbsp;
 
 <br />
 <br />
