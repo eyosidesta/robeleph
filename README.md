@@ -35,7 +35,7 @@
 [<img align="left" alt="AWS" width="26px" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/AWS.jpeg" />]
 
 
-(https://github-readme-stats.vercel.app/api?username=robel_ph&show_icons=true&theme=radical)
+(https://github-readme-stats.vercel.app/api?username=robeleph&show_icons=true&theme=radical)
 
 [linkedin]: https://www.linkedin.com/in/robel-ephraim
 [gmail]: https://www.mailto:ephraimrobel15@gmail.com
