@@ -42,9 +42,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Jasmine](https://img.shields.io/badge/Jasmine%20-%23150458.svg?&style=flat&logo=Jasmine&logoColor=white)&nbsp;
 ![jUnit](https://img.shields.io/badge/jUnit%20-%23150458.svg?&style=flat&logo=Java&logoColor=white)&nbsp;
-![Docker-Compose](https://img.shields.io/badge/Docker-Compose%20-%23150458.svg?&style=flat&logo=dockercompose&logoColor=white)&nbsp;
-
-
+![Docker Compose](https://img.shields.io/badge/Docker Compose%20-%23150458.svg?&style=flat&logo=dockercompose&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/AWS%20-%23150458.svg?&style=flat&logo=aws&logoColor=yellow)&nbsp;
 
 <br />
 <br />
