@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I love to draw and play guitar / drums
 <br />
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=robeleph.robeleph)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=robeleph.robeleph)
 
 ### Connect with me:
 
