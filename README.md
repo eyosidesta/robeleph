@@ -41,7 +41,10 @@
 
 ![Robel's github stats](https://github-readme-stats.vercel.app/api?username=robeleph&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robeleph&theme=synthwave “Robel's Top Languages Card”)
+<br />
+<br />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robeleph&theme=dark “Robel's Top Languages Card”)
 
 [linkedin]: https://www.linkedin.com/in/robel-ephraim
 [gmail]: https://www.mailto:ephraimrobel15@gmail.com
