@@ -11,11 +11,14 @@
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=robeleph.robeleph)
 
-### Connect with me:
+### 🤝🏻 &nbsp;Connect with Me
 
-[<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br />
+<p align="center">
+
+<a href="https://www.linkedin.com/in/fitsum-alemu-05b477b0/"><img src="https://img.shields.io/badge/-Fitsum%20Alemu%20D-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:fitsumcs@gmail.com"><img src="https://img.shields.io/badge/-fitsumcs@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
+
 
 ### Languages and Tools:
 
