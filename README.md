@@ -40,6 +40,7 @@
 ![Loopback.js](https://img.shields.io/badge/-Loopback.js-05122A?style=flat&logo=loopback.js&logoColor=092E20)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Kubernetes](https://img.shields.io/badge/Kubernetes%20-%23150458.svg?&style=flat&logo=kubernetes&logoColor=yellow)&nbsp;
 ![jUnit](https://img.shields.io/badge/jUnit%20-%23150458.svg?&style=flat&logo=Java&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
