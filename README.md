@@ -35,20 +35,15 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Express](https://img.shields.io/badge/express%20-%23150458.svg?&style=flat&logo=express&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-![AWS](https://img.shields.io/badge/AWS%20-%23150458.svg?&style=flat&logo=aws&logoColor=yellow)&nbsp;
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure%20-%23150458.svg?&style=flat&logo=azure&logoColor=yellow)&nbsp;
 ![Loopback.js](https://img.shields.io/badge/-Loopback.js-05122A?style=flat&logo=loopback.js&logoColor=092E20)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Kubernetes](https://img.shields.io/badge/Kubernetes%20-%23150458.svg?&style=flat&logo=kubernetes&logoColor=yellow)&nbsp;
-![jUnit](https://img.shields.io/badge/jUnit%20-%23150458.svg?&style=flat&logo=Java&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)&nbsp;
 ![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=007ACC)&nbsp;
-![Jasmine](https://img.shields.io/badge/Jasmine%20-%23150458.svg?&style=flat&logo=Jasmine&logoColor=white)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwindcss)&nbsp;
 
 <br />
