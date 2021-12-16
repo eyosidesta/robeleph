@@ -47,7 +47,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=007ACC)&nbsp;
 ![Jasmine](https://img.shields.io/badge/Jasmine%20-%23150458.svg?&style=flat&logo=Jasmine&logoColor=white)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=github)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwindcss)&nbsp;
 
 <br />
 <br />
