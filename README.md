@@ -36,6 +36,7 @@
 ![Express](https://img.shields.io/badge/express%20-%23150458.svg?&style=flat&logo=express&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![AWS](https://img.shields.io/badge/AWS%20-%23150458.svg?&style=flat&logo=aws&logoColor=yellow)&nbsp;
+![Azure](https://img.shields.io/badge/Azure%20-%23150458.svg?&style=flat&logo=azure&logoColor=yellow)&nbsp;
 ![Loopback.js](https://img.shields.io/badge/-Loopback.js-05122A?style=flat&logo=loopback.js&logoColor=092E20)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
